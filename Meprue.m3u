@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U   type="playlist"  
 
 #EXTINF:-1 ,PELICULAS
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
